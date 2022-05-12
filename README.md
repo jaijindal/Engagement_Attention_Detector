@@ -1,5 +1,11 @@
 # Engagement_Attention_Detector
 
+## Contributors
+Jai Jindal
+Shikhar Jain
+Lakshaya Agarwal
+Varun Kataria
+
 ## Inspiration
 As students, we frequently find ourselves delivering online presentations, and wanting to gauge the quality and engagement of the same. Apart from this, as learners, we find ourselves losing focus during lectures. Despite knowing our shortcomings, it's inevitable that we run into them. Thus we chose to create an Attention and Engagement Monitor, using Deep Learning. Needless to say, this would definitely boost productivity by improving the attentiveness and effectiveness of content, not only for students, but across large scale companies as well.
 
