@@ -7,7 +7,7 @@ import numpy as np
 model=model_from_json(open(r"D:\jinda\python programs\techfest\fer.json",'r').read())
 model.load_weights(r"D:\jinda\python programs\techfest\fer.h5")
 face_cascade=cv2.CascadeClassifier(cv2.data.haarcascades+ 'haarcascade_frontalface_default.xml')
-
+#
 
 cap= cv2.VideoCapture(0)
 
