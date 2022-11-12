@@ -10,3 +10,5 @@ docker run --rm --device /dev/video0 \
 	-v /tmp/.X11-unix:/tmp/.X11-unix \
 	--env="QT_X11_NO_MITSHM=1" \
 	-it ${IMAGE_NAME} bash)
+	
+#
